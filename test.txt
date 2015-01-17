@@ -1,3 +1,5 @@
 text 1
 
 text 4 - branch-2
+
+text 4 - master
